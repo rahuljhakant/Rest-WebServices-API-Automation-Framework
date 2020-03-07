@@ -24,13 +24,11 @@ public class getAPITest  extends Testbase{
 		apiURl=prop.getProperty("serviceURl");
 		url= serviceuRL + apiURl;
 	}
-	
-	
+
 	@Test
 	public void getTest() throws ClientProtocolException, IOException {
 		restclient = new RestClient();
 		restclient.get(url);
 	}
-	
 
 }

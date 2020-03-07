@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e2c0a0-68dc-437b-b93c-1eef5b451f4b" name="Default Changelist" comment="" />
+    <list default="true" id="10e2c0a0-68dc-437b-b93c-1eef5b451f4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/rahul_kant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/rahul_kant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/base/Testbase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/base/Testbase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/tests/getAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/tests/getAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/tests/getAPITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/tests/getAPITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.tests.getAPITest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.tests.getAPITest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +31,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Yo1cpDzWlxchwHo3F9FItJVydq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,25 +80,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="264" key="GridCell.Tab.0.bottom" timestamp="1583594838945">
+    <state width="1398" height="150" key="GridCell.Tab.0.bottom" timestamp="1583600354207">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583594838945" />
-    <state width="1398" height="264" key="GridCell.Tab.0.center" timestamp="1583594838945">
+    <state width="1398" height="150" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583600354207" />
+    <state width="1398" height="150" key="GridCell.Tab.0.center" timestamp="1583600354206">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="264" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583594838945" />
-    <state width="1398" height="264" key="GridCell.Tab.0.left" timestamp="1583594838945">
+    <state width="1398" height="150" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583600354206" />
+    <state width="1398" height="150" key="GridCell.Tab.0.left" timestamp="1583600354205">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="264" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583594838945" />
-    <state width="1398" height="264" key="GridCell.Tab.0.right" timestamp="1583594838945">
+    <state width="1398" height="150" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583600354205" />
+    <state width="1398" height="150" key="GridCell.Tab.0.right" timestamp="1583600354206">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="264" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583594838945" />
-    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583597552000">
+    <state width="1398" height="150" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583600354206" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583599745832">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1583597552000" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1583599745832" />
   </component>
 </project>
