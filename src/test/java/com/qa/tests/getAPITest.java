@@ -17,7 +17,7 @@ public class getAPITest  extends Testbase{
 	String url;
 	RestClient restclient;
 	
-	@BeforeMethod
+	@BeforeMethod(description = "TEST")
 	public void Setup() throws ClientProtocolException, IOException {
 		testbase =new Testbase();
 		serviceuRL=prop.getProperty("URL");
