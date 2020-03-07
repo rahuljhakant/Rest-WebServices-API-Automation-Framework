@@ -10,6 +10,9 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -78,5 +81,9 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="264" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583594838945" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583597552000">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1583597552000" />
   </component>
 </project>
