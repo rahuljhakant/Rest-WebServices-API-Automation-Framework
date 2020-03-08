@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e2c0a0-68dc-437b-b93c-1eef5b451f4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/:" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/tests/PostAPITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/tests/getAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/tests/getAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/client/RestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/client/RestClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.rest-api-test.com/restapi/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.rest-api-test.com/restapi/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/base/Testbase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/base/Testbase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.rest-api-test.com/restapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.rest-api-test.com/restapi/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/qa/client/RestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/client/RestClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/util/TestUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/qa/tests/getAPITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/qa/tests/getAPITest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -101,29 +102,29 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="100" y="123" width="1240" height="597" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.797@0.23.1440.797" timestamp="1583603119294" />
-    <state width="1398" height="328" key="GridCell.Tab.0.bottom" timestamp="1583648731860">
+    <state width="1398" height="328" key="GridCell.Tab.0.bottom" timestamp="1583675710824">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="355" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583640602398" />
-    <state width="1398" height="328" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583648731860" />
-    <state width="1398" height="328" key="GridCell.Tab.0.center" timestamp="1583648731859">
+    <state width="1398" height="328" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1583675710824" />
+    <state width="1398" height="328" key="GridCell.Tab.0.center" timestamp="1583675710824">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="355" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583640602397" />
-    <state width="1398" height="328" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583648731859" />
-    <state width="1398" height="328" key="GridCell.Tab.0.left" timestamp="1583648731858">
+    <state width="1398" height="328" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1583675710824" />
+    <state width="1398" height="328" key="GridCell.Tab.0.left" timestamp="1583675710823">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="355" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583640602396" />
-    <state width="1398" height="328" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583648731858" />
-    <state width="1398" height="328" key="GridCell.Tab.0.right" timestamp="1583648731859">
+    <state width="1398" height="328" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1583675710823" />
+    <state width="1398" height="328" key="GridCell.Tab.0.right" timestamp="1583675710824">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="355" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583640602398" />
-    <state width="1398" height="328" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583648731859" />
-    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583648676737">
+    <state width="1398" height="328" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1583675710824" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583691160763">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1583648676737" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1583691160763" />
   </component>
 </project>
