@@ -8,6 +8,7 @@ import org.apache.http.Header;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.util.EntityUtils;
+
 import org.json.JSONObject;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
@@ -36,7 +37,11 @@ public class getAPITest extends Testbase {
     @Test(priority = 1)
     public void getTest() throws ClientProtocolException, IOException {
         restclient = new RestClient();
-        closeableHttpResponse = restclient.get(url);
+        
+        HashMap<String, String> headerMap = new HashMap<String, String>();
+        headerMap.put("Content-Type", "application/json");
+        
+        closeableHttpResponse = restclient.get(url,headerMap);
 
         // getting status code
         int status_code = closeableHttpResponse.getStatusLine().getStatusCode();
@@ -66,10 +71,31 @@ public class getAPITest extends Testbase {
 
         Assert.assertEquals(i_totalValue,12);
 
+        System.out.println("************************************************");
 
-        // Fetch the value from the JSON Array
+        // Fetch the data[] value from the JSON Array
+
+        for(int i=0;i<response_Json.length();i++) {
+        	
+        	 String lastName = TestUtil.getValueByJPath(response_Json,"/data["+i+"]/last_name");
+        	 System.out.println(lastName);
+
+        	 String id = TestUtil.getValueByJPath(response_Json,"/data["+i+"]/id");
+        	 System.out.println(id);
+
+        	 String avatar = TestUtil.getValueByJPath(response_Json,"/data["+i+"]/avatar");
+        	 System.out.println(avatar);
+
+        	 String first_name = TestUtil.getValueByJPath(response_Json,"/data["+i+"]/first_name");
+        	 System.out.println(first_name);
+
+        	 String email = TestUtil.getValueByJPath(response_Json,"/data["+i+"]/email");
+        	 System.out.println(email);
+
+            System.out.println("************************************************");
+
+        }
         
-
         // All headers
         Header[] headers = closeableHttpResponse.getAllHeaders();
 
